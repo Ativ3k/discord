@@ -5,84 +5,83 @@
 §1.2   Staramy się zachować zasady poprawnej polszczyzny.
 §1.3   Nie używamy wulgaryzmów, nie obrażamy innych ani też nie nadużywamy CapsLock.
 §1.4   Obowiązuje szeroko pojęta netykieta i zasady dobrego wychowania.
-§1.5   Wszelkie niemoralne propozycje/treści należy zachować dla siebie, w przeciwnym wypadku może zaowocować to blokadą.
+§1.5   Wszelkie niemoralne propozycje/treści należy zachować dla siebie.
 §1.6   Zakazane jest reklamowanie siebie, kogoś, innych serwerów i tym podobnych.
 §1.7   Zakazane jest nękanie i nachalność wobec innych.
 §1.8   Zakazane jest spamowanie jak i floodowanie w każdej możliwej formie. 
-§1.9   Zabrania sie używania niewidzialnych nicków/awatarów. Minimalna długość nicku to 3 znaki z alfabetu polskiego lub z znaków prostych dostępnych na klawiaturze Polski (programista).
+§1.9   Zabrania się używania niewidzialnych nicków/awatarów. Minimalna długość nicku to 3 znaki z alfabetu polskiego lub z znaków prostych dostępnych na klawiaturze Polski (programista).
 §1.10  Wszelkie informacje znajdziesz na kanale #「⚠ℹ」informacje .
 §1.11  Podszywanie się pod administrację będzie skutkowało banem (nie przewidziano wyjątków!).
-§1.12  Niestosowanie się do poleceń Administracji/Moderacji będzie groziło Ostrzeżeniem/Banem.
-§1.13  Nieuzasadnione otwarcie Sprawy z problemem będzie grozić Ostrzeżeniem lub Mutem .
-§1.14  Jakakolwiek ingerencja w Działanie Botów lub wykorzystywanie ich błędów/nieobecności będzie groziła Banem.
-§1.15  Żaden z Administracji/Moderacji jak i Właściciel nie pyta oraz nie rozdaje darmowych Skinów do gier.
-§1.16  Wszelkie Dane,Wizerunek,Znaki Szczególne Członków są wstawiane przez Nich na własną Odpowiedzialność.
-§1.17  Dane osobowe podane przez Użytkowników Do rangi +18 wstawiane są na Własną Odpowiedzialność w wiadomościach Prywatnych.
-§1.18  Właściciel jak i Administracja nie ponoszą odpowiedzialności za Treści Niemoralne wstawiane przez Członków na Kanałach NSFW.
-§1.19  Skargi, odwołania od bana oraz błędy można wysyłać w Wiadomości Prywatnej Do Administracji lub poprzez otwarcie Sprawy na kanale #「📮」pomoc-report
+§1.12  Niestosowanie się do poleceń administracji/moderacji grozi ostrzeżeniem/banem.
+§1.13  Nieuzasadnione otwarcie sprawy z problemem grozi ostrzeżeniem/kick .
+§1.14  Jakakolwiek ingerencja w działanie botów lub wykorzystywanie ich błędów/nieobecności grozi banem.
+§1.15  Żaden z członków administracji/moderacji jak i właściciel nie pyta o konta oraz nie rozdaje darmowych przedmiotów do gier bez oficjalnego uprzedzenia o takowym rozdaniu.
+§1.16  Wszelkie dane, wizerunek, znaki szczególne członków są wstawiane przez nich na własną odpowiedzialność.
+§1.17  Dane osobowe podane przez użytkowników do rangi +18 wstawiane są na własną odpowiedzialność w wiadomościach prywatnych.
+§1.18  Właściciel jak i administracja nie ponoszą odpowiedzialności za treści niemoralne wstawiane przez członków na kanałach NSFW.
+§1.19  Skargi, odwołania od bana oraz błędy można wysyłać w wiadomości prywatnej do administracji lub poprzez otwarcie sprawy na kanale #「📮」pomoc-report
 ℤ𝕒𝕤𝕒𝕕𝕪 𝕂𝕒𝕟𝕒łó𝕨 𝕋𝕖𝕜𝕤𝕥𝕠𝕨𝕪𝕔𝕙
 §2.1  Report ticket #「📮」pomoc-report 
-             -zakazane jest tworzenie ticketow bez powodu. 
-             -drażenienie tematów po rozwiazaniu go przez Administracje jest zakazane. 
-             -tickety otwarte przypadkowo i nie zamkniete, są uznawane za łamanie regulaminu.
+             - zakazane jest tworzenie ticketów bez powodu. 
+             - drążenienie tematów po rozwiązaniu go przez administracje jest zakazane. 
+             - tickety otwarte przypadkowo i nie zamknięte, są uznawane za łamanie regulaminu.
 §2.2   Komendy botów piszemy na przeznaczonym do tego kanale #「📞」bot-spot.
 §2.3   Stosujemy się do tematu kanału.
 §2.4   Rozmowy między osobami niezwiązane z tematem (np. na temat życia prywatnego) należy pisać prywatnie a nie na kanałach publicznych.
 §2.5   Nie spamujemy linkami.
-§2.6   Dokładny opis Co można Udostępniać/Wysyłać na kanałach tekstowych znajdziesz w #「⚠ℹ」informacje .
-§2.7   Użytkownik oświadcza i gwarantuje, że jest oryginalnym autorem Treści Udostępnianych na Kanałach #「🤩」pochwal-się i #「🤳」selfie .
-§2.8   W przypadku złamania punktu §2.7 zostanie nałożony Ban.
-§2.9   Złamanie tematyki Kanału tekstowego będzie groziło Usunięciem wiadomości oraz kickiem/banem.
+§2.6   Dokładny opis co można udostępniać/wysyłać na kanałach tekstowych znajdziesz w #「⚠ℹ」informacje .
+§2.7   Użytkownik oświadcza i gwarantuje, że nie łamie praw autorskich treści udostępnianych na kanałach #「🤩」pochwal-się i #「🤳」selfie .
+§2.8   W przypadku złamania punktu §2.7 zostanie nałożony ban.
+§2.9   Złamanie tematyki kanału tekstowego będzie groziło usunięciem wiadomości oraz kickiem/banem.
 ℤ𝕒𝕤𝕒𝕕𝕪 𝕂𝕒𝕟𝕒łó𝕨 𝔾ł𝕠𝕤𝕠𝕨𝕪𝕔𝕙
 §3.1   Na kanałach głosowych obowiązują również pozostałe punkty regulaminu.
 §3.2   Na kanałach głosowych wymagana jest minimalnie "dobra" jakość dźwięku/mikrofonu. Przestery, buczenia i inne podobne dźwięki (w tym bindy/muzyka) nie są miłe.
 §3.3   Zakaz przekrzykiwania innych.
 §3.4   Szanujemy innych, dajemy dojść do zdania, nie wchodzimy w środek rozmowy bez powodu.
 §3.5   Słuchamy poleceń Administratora/Moderatora. Lekceważenie będzie karane.
-§3.6   Brak aktywności na Kanale Głosowym Spanie/Wymutowanie natychmiastowe rozłączenie.
-§3.7   Zabrania się nagrywania rozmów i udostępnianie ich publicznie bez Zgody Administracji/Moderacji
-§3.8   Niedostosowanie się do punktu §3.7 Będzie Groziło Sankcjami Prawnymi Art.267 Kodeksu Karnego .
-§3.9   Zakaz Używania Bota @Rythm 2  gdy na kanale Głosowym znajduje sie jedna Osoba.
-§3.10  Bota @Rythm 2  Zapraszamy na Kanał Prywatny tylko przy braku Limitu Członków.
-§3.11 Zakaz Puszcznia piosenek poprzez @Rythm 2  potocznie uważanych za wulgarne/obraźliwe.
-§3.12 Zakazane jest używanie bota @Rythm 2  do celów niezgodnych z regulaminem (nękanie/denerwowanie) innych członków Kanału VC.
-§3.13 Na kanałach publicznych należy zachowywać się z kulturą oraz na kanałach publicznych może przesiadywać każdy użytkownik.
-§3.14 Na kanałach Prywatnych "Twój własny kącik" obowiązuje taki sam regulamin jak na kanałach Publicznych.
+§3.6   Zabrania się nagrywania rozmów i udostępnianie ich publicznie bez Zgody Administracji/Moderacji
+§3.7   Niedostosowanie się do punktu §3.6 grozi sankcjami prawnymi Art.267 Kodeksu Karnego .
+§3.8   Zakaz używania bota @{>}ℝ𝕠𝕫𝕣𝕪𝕨𝕜𝕠𝕨𝕪  gdy na kanale głosowym znajduje sie jedna osoba.
+§3.9  Bota @{>}ℝ𝕠𝕫𝕣𝕪𝕨𝕜𝕠𝕨𝕪  zapraszamy na kanał prywatny tylko przy braku limitu członków lub limicie 99.
+§3.10 Zakaz puszczania piosenek poprzez @{>}ℝ𝕠𝕫𝕣𝕪𝕨𝕜𝕠𝕨𝕪  potocznie uważanych za wulgarne/obraźliwe.
+§3.11 Zakazane jest używanie bota @{>}ℝ𝕠𝕫𝕣𝕪𝕨𝕜𝕠𝕨𝕪  do celów niezgodnych z regulaminem (nękanie/denerwowanie) innych członków Kanału VC.
+§3.12 Na kanałach publicznych należy zachowywać się z kulturą oraz na kanałach publicznych może przesiadywać każdy użytkownik.
+§3.13 Na kanałach prywatnych "Twój własny kącik" obowiązuje taki sam regulamin jak na kanałach publicznych.
 𝕊𝕥𝕣𝕖𝕒𝕞 𝕂𝕒𝕟𝕒ł ℙ𝕣𝕪𝕨𝕒𝕥𝕟𝕪 𝔾ł𝕠𝕤𝕠𝕨𝕪
-§4.1  Zakazuje się podczas Wspóldzielenia ekranu :
+§4.1  Zakazuje się podczas Współdzielenia ekranu :
                - Pokazywania treści niemoralnych 
-               - Pokazywania treści Nielegalnych
-               - Pokazywania treści innych twórców YT/twitch/TikToc
-               - Pokazywania Swojej twarzy 
-§4.2  Zakazuje sie nagrywania §3.7 .
-§4.3  Wszelkie inne wytyczne znajdują sie na kanale #「⚠ℹ」informacje , ich złamanie rónież będzie brane jako nieprzestrzeganie regulaminu.
+               - Pokazywania treści nielegalnych
+               - Pokazywania treści innych twórców YouTube/Twitch/TikTok w formie reklamy
+§4.2  Zakazuje się nagrywania §3.7 .
+§4.3  Wszelkie inne wytyczne znajdują się na kanale #「⚠ℹ」informacje , ich złamanie również będzie brane jako nieprzestrzeganie regulaminu.
  ℙ𝕚𝕟𝕘𝕠𝕨𝕒𝕟𝕚𝕖
 §5.1   W przypadku pingowania obowiązują również pozostałe punkty regulaminu.
 §5.2   Zakaz pingowania innych w sposób nachalny. Jeżeli coś od kogoś chcemy to staramy się załatwić to prywatnie.
 §5.3   Zakaz pingowania administracji bez poważnego powodu - w tym administracji serwerów gier.
 §5.4   Zakaz pingowania kogokolwiek w godzinach 23:00 - 7:00.
-§5.5   Absolutny zakaz Pingowania Właściciela, za ping grozi BAN
+§5.5   Absolutny zakaz pingowania właściciela, za ping grozi ban.
 𝔸𝕕𝕞𝕚𝕟𝕚𝕤𝕥𝕣𝕒𝕔𝕛𝕒
 §6.1  Każdy Administrator/Moderator ma Prawo nie udzielenia pomocy.
 §6.2  Administracja/Moderacja musi zachować bezstronność.
 §6.3  Administrator/Moderator ma prawo do kickowania lub banowania użytkowników nieprzestrzegających regulaminu.
-§6.4  Administrator/Moderator ma prawo wejść na kanał prywatny bez zgody Członka.
+§6.4  Administrator/Moderator ma prawo wejść na kanał prywatny bez zgody członka.
 §6.5  Administrator/Moderator powinien dawać dobry przykład użytkownikom.
-§6.6  Prywatne wiadomości do Administracji/Moderacji z zaproszeniami na serwery DC, zaowocuje Banem.
+§6.6  Prywatne wiadomości do Administracji/Moderacji z zaproszeniami na serwery DC, grozi banem.
 §6.7  Administrator/Moderator musi zachować kulturę osobistą i opanowanie w każdym przypadku.
 ℙ𝕠𝕕𝕤𝕦𝕞𝕠𝕨𝕒𝕟𝕚𝕖
-Ostateczna decyzja zawsze należy do administratora. Nieznajomość regulaminu nie zwalnia z jego przestrzegania, a wykorzystywanie luk w regulaminie w celu uprzykrzania atmosfery na serwerze będzie karane.
+Ostateczna decyzja i podejście do sprawy zawsze należy do administratora. Administrator też jest człowiekiem, każdy jest inny a więc też każdy administrator będzie mieć inne podejście. 
+Nieznajomość regulaminu nie zwalnia z jego przestrzegania, a wykorzystywanie luk w regulaminie w celu uprzykrzania atmosfery na serwerze będzie karane.
 
 𝕋𝕒𝕣𝕪𝕗𝕚𝕜𝕒𝕥𝕠𝕣 𝕂𝕒𝕣
 1. Podszywanie się pod administrację - Ban permanentny
-2. Reklamowanie treści niezwiązanych z Naszymi Serwerami DC/Mc/Cs - Ban permanentny
+2. Reklamowanie treści niezwiązanych z naszymi serwerami DC/MC/CS:GO - Ban permanentny
 3. Udostępnianie i rozpowszechnianie danych osobowych - Ban wg. uznania administracji
 4. Obrażanie administracji/użytkowników - Ban permanentny
 5. Spamowanie - Pouczenie -> Ban 
-6. Nick/avatar niezgodny z regulaminem - Pouczenie -> Ban 
-7. Bezzasadne wchodzenie na kanał pomocy - Pouczenie -> Ban 
-8. Skakanie po kanałach - Pouczenie -> Kick
-9. Puszczanie muzyki na kanałach administracji/publicznych - Pouczenie -> Ban 
-10. Używanie modulatora głosu - Pouczenie -> Ban 
+6. Nick/avatar niezgodny z regulaminem - Pouczenie -> kick/ban 
+7. Bezzasadne wchodzenie na kanał pomocy - Pouczenie -> kick/ban 
+8. Skakanie po kanałach - Pouczenie -> kick -> ban
+9. Puszczanie muzyki na kanałach administracji/publicznych - Pouczenie -> kick/ban 
+10. Używanie modulatora głosu - Pouczenie -> kick/ban 
 
 Są to najczęstsze przewinienia użytkowników. Wszelkie inne administracja rozpatruje na bieżąco według własnego uznania.
